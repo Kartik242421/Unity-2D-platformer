@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: bc2f4e850027fda45ac9ef98cdf3965f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2573580128457733926
+    second: stock-vector-animated-robot-character-for-creating-sci-fi-video-games-780817996_0
+  - first:
+      213: 8549460781026844746
+    second: stock-vector-animated-robot-character-for-creating-sci-fi-video-games-780817996_1
+  - first:
+      213: 3926025577648974196
+    second: stock-vector-animated-robot-character-for-creating-sci-fi-video-games-780817996_2
+  - first:
+      213: -6472772994191834199
+    second: stock-vector-animated-robot-character-for-creating-sci-fi-video-games-780817996_3
+  - first:
+      213: -4664986990688355423
+    second: stock-vector-animated-robot-character-for-creating-sci-fi-video-games-780817996_4
+  - first:
+      213: 8824479232139716021
+    second: stock-vector-animated-robot-character-for-creating-sci-fi-video-games-780817996_5
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stock-vector-animated-robot-character-for-creating-sci-fi-video-games-780817996_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 501
+        width: 98
+        height: 99
+      alignment: 9
+      pivot: {x: 0.43500596, y: 0.43566215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c327c9aaa1af4f44d9c19cda32e4bf95
+      internalID: 2573580128457733926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-robot-character-for-creating-sci-fi-video-games-780817996_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 501
+        width: 97
+        height: 99
+      alignment: 9
+      pivot: {x: 0.47811198, y: 0.39277047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6c61fc49bc67543a0f9ef03c254ab1
+      internalID: 8549460781026844746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-robot-character-for-creating-sci-fi-video-games-780817996_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 501
+        width: 97
+        height: 99
+      alignment: 9
+      pivot: {x: 0.47811198, y: 0.41421664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa945508d21ade479230d12adc2c29d
+      internalID: 3926025577648974196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-robot-character-for-creating-sci-fi-video-games-780817996_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 501
+        width: 96
+        height: 99
+      alignment: 9
+      pivot: {x: 0.45576796, y: 0.41421664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcaf2b1a03aff049ba787744ae1065e
+      internalID: -6472772994191834199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-robot-character-for-creating-sci-fi-video-games-780817996_4
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 501
+        width: 97
+        height: 99
+      alignment: 9
+      pivot: {x: 0.45622396, y: 0.43566215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07640899949264145acc64fa0651fc6d
+      internalID: -4664986990688355423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-robot-character-for-creating-sci-fi-video-games-780817996_5
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 501
+        width: 97
+        height: 99
+      alignment: 9
+      pivot: {x: 0.45622396, y: 0.43566215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2627c91658f0e4b86a91361167e634
+      internalID: 8824479232139716021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      stock-vector-animated-robot-character-for-creating-sci-fi-video-games-780817996_0: 2573580128457733926
+      stock-vector-animated-robot-character-for-creating-sci-fi-video-games-780817996_3: -6472772994191834199
+      stock-vector-animated-robot-character-for-creating-sci-fi-video-games-780817996_4: -4664986990688355423
+      stock-vector-animated-robot-character-for-creating-sci-fi-video-games-780817996_5: 8824479232139716021
+      stock-vector-animated-robot-character-for-creating-sci-fi-video-games-780817996_1: 8549460781026844746
+      stock-vector-animated-robot-character-for-creating-sci-fi-video-games-780817996_2: 3926025577648974196
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
